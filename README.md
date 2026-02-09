@@ -7,3 +7,5 @@ What’s New in C# 14? Key Features and Updates
 6) Field-Backed Properties - Compiler auto-creates a backing field you can access.
 7) Partial Events and Constructors - Split constructors and events across partial classes.
 8) User-Defined Compound Assignment Operators - Define operators like +=, -=, *=, etc.
+
+https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-14
